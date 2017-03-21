@@ -1,29 +1,44 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: Marlabs, Inc
+    i18n: Marlabs, Inc
   desc:
-    detail: I worked at Company A ...
+    detail: I worked at Marlabs as a Front-end engineer, I designed UI screens using HTML5, CSS3, Javascript.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: June. 2016
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Front-end engineer
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Classwish, Inc
+    i18n: Classwish, Inc
   desc:
-    detail: I worked at Company B ...
+    detail: I worked at Classwish as a Database/Web developer. I configured web applications, built workflows and wrote scripts for data migration (and provided technical support to the whole team).
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Oct. 2015
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Database/Web developer
     i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: China's communication service Co., LTD
+    i18n: China's communication service Co., LTD
+  desc:
+    detail: I worked closely with Business Analysts in understanding the technical requirements of each project and prepared the use cases for different functionalities and designs.
+
+    i18n: company_c_desc
+  date:
+    detail: Jan. 2013
+    i18n: company_c_date
+  job:
+    detail: Software engineer internship
+    i18n: Software engineer internship
   icon: fa-plus-square
