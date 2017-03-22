@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Wei
+title: "Wei"
 description: Wei's blog,use Jekyll and github pages.
 keywords: Wei,blog,github,gh-pages
 baseurl:  /homepage # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -10,7 +10,11 @@ url: http://vivienzi.github.io/homepage  # url should be 'http://<github_usernam
 img_path: /homepage/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
+<<<<<<< HEAD
 author: # change following line to your infomation.
+=======
+  author:  Wei Zi # change following line to your infomation.
+>>>>>>> 4578c76bce142ad7fd6cc2b823954f6091e3ebeb
   name: Wei  # Be used at blog posts' author.
   first_name: Wei  # Be used at index page about me section.
   last_name: Zi  # Be used at index page about me section.
