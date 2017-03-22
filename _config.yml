@@ -10,7 +10,7 @@ url: http://vivienzi.github.io/homepage  # url should be 'http://<github_usernam
 img_path: /homepage/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
-  author:  Wei Zi# change following line to your infomation.
+author: # change following line to your infomation.
   name: Wei  # Be used at blog posts' author.
   first_name: Wei  # Be used at index page about me section.
   last_name: Zi  # Be used at index page about me section.
