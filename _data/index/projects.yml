@@ -4,20 +4,20 @@
 - name: report with d3 and svg
   i18n: report with d3 and svg
   gh_user: vivienzi
-  repo: vivienzi
+  repo: Report-with-SVG-and-D3
   img:
   desc: This project is my project. I use d3js to built the visulization report with datas.
 
 - name: youtube Search
   i18n: youtube Search
   gh_user: vivienzi
-  repo: vivienzi
+  repo: youtubeSearch
   img:
   desc: This project is a react project. It is a video seaching engine built with react and youtube api.
 
 - name: angular-complexity-check
   i18n: angular-complexity-check
   gh_user: vivienzi
-  repo: vivienzi
+  repo: angular-complexity-check
   img:
   desc: This is a function complexity check app write by angular and esprimaJS. I can check the time complexity of the code using this project.
