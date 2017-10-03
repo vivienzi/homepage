@@ -1,10 +1,25 @@
 # careers section data
-# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Hotels at Home, Inc
+    i18n: Hotels at Home, Inc
+  desc:
+    detail: I worked at Hotels at Home as a Front-end Web developer, Ilead the development of the abandon cart feature which involved working with designers and the backend developers to stay on track as well as implementing the feature in the front end.I Developed front end prototypes and products, with technologies including HTML5, CSS3, Object Oriented JavaScript, jQuery, Node.js, ASP .NET, D3 etc., from desktop to mobile.
+
+    i18n: company_a_desc
+  date:
+    detail: Feb. 2017
+    i18n: company_a_date
+  job:
+    detail: Front-end Web developer
+    i18n: company_a_job
+  icon: fa-plus-square
+
 - name:
     detail: Marlabs, Inc
     i18n: Marlabs, Inc
   desc:
-    detail: I worked at Marlabs as a Front-end engineer, I designed UI screens using HTML5, CSS3, Javascript.
+    detail: I	designed UI screens using HTML5, CSS3, Javascript and	also used various Bootstrap plugins like date picker, bootstrap select etc. I implemented a Single Page Web Applications (SPA) based front end for displaying user requests, user profile records and security settings for Authentication profiles of various users using JQuery.	I implemented AngularJS client side validation and implemented AngularJS modules.
+
     i18n: company_a_desc
   date:
     detail: June. 2016
@@ -18,7 +33,7 @@
     detail: Classwish, Inc
     i18n: Classwish, Inc
   desc:
-    detail: I worked at Classwish as a Database/Web developer. I configured web applications, built workflows and wrote scripts for data migration (and provided technical support to the whole team).
+    detail: I built online database management system based on SaaS platform: Caspio. Created 20+ webpages based on weebly using HTML, CSS and JavaScript. I configured web applications, built workflows and wrote scripts for data migration (and provided technical support to the whole team). 
     i18n: company_b_desc
   date:
     detail: Oct. 2015
@@ -32,7 +47,7 @@
     detail: China's communication service Co., LTD
     i18n: China's communication service Co., LTD
   desc:
-    detail: I worked closely with Business Analysts in understanding the technical requirements of each project and prepared the use cases for different functionalities and designs.
+    detail: I performed a lot of DOM manipulation using native Javascript and jQuery for loading and manipulating dynamic content on webpages, meanwhile, engaged on overall quality assurance testing the cross-browser issue. Worked closely with Business Analysts in understanding the technical requirements of each project and prepared the use cases for different functionalities and designs.
 
     i18n: company_c_desc
   date:

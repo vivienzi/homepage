@@ -1,23 +1,25 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: report with d3 and svg
-  i18n: report with d3 and svg
-  gh_user: vivienzi
+- name: 
+
+- name: Report With D3 and SVG
+  i18n: Report With D3 and SVG
+  gh_user: weizi1991
   repo: Report-with-SVG-and-D3
-  img:
-  desc: This project is my project. I use d3js to built the visulization report with datas.
+  img: /static/assets/img/landing/d3.png
+  desc: Personal project: Used D3.js to built the visulization report with datas. Including radiotree, table, radar, barchart.
 
 - name: youtube Search
   i18n: youtube Search
-  gh_user: vivienzi
+  gh_user: weizi1991
   repo: youtubeSearch
-  img:
-  desc: This project is a react project. It is a video seaching engine built with react and youtube api.
-
+  img: /static/assets/img/landing/youtube.png
+  desc: Personal project: It is a video seaching engine built with React, redux and YouTube api.
+  
 - name: angular-complexity-check
   i18n: angular-complexity-check
-  gh_user: vivienzi
+  gh_user: weizi1991
   repo: angular-complexity-check
-  img:
-  desc: This is a function complexity check app write by angular and esprimaJS. I can check the time complexity of the code using this project.
+  img: /static/assets/img/landing/complexcheck.png
+  desc: This is a function complexity check app write by Angular1 and esprimaJS. Achived the functionality that can check the time complexity of the code.
