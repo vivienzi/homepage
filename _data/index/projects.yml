@@ -8,14 +8,14 @@
   gh_user: weizi1991
   repo: Report-with-SVG-and-D3
   img: /static/assets/img/landing/d3.png
-  desc: Personal project: Used D3.js to built the visulization report with datas. Including radiotree, table, radar, barchart.
+  desc: Personal project - Used D3.js to built the visulization report with datas. Including radiotree, table, radar, barchart.
 
 - name: youtube Search
   i18n: youtube Search
   gh_user: weizi1991
   repo: youtubeSearch
   img: /static/assets/img/landing/youtube.png
-  desc: Personal project: It is a video seaching engine built with React, redux and YouTube api.
+  desc: Personal project - It is a video seaching engine built with React, redux and YouTube api.
   
 - name: angular-complexity-check
   i18n: angular-complexity-check
